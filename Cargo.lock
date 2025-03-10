@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "theia-network-stack"
+name = "theia-protocol-stack"
 version = "0.1.0"

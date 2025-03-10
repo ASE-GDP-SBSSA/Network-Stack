@@ -1,5 +1,5 @@
 [package]
-name = "theia-network-stack"
+name = "theia-protocol-stack"
 version = "0.1.0"
 edition = "2024"
 
